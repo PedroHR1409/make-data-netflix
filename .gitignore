@@ -1,3 +1,3 @@
-# Na hora de subir o projeto, será ignorado a pasta raw
+# Na hora de subir o projeto, será ignorado a pasta raw e a pasta docs
 src/data/raw
 docs/*
